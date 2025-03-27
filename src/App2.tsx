@@ -13,9 +13,9 @@ function App2() {
 
     // 미리 type 을 선언해 놓고 사용할수도 있다.
     type MemberDto = {
-        num:number;
-        name:string;
-        addr:string;
+        num:number
+        name:string
+        addr:string
     };
     
     let m1 = {num:1, name:"김구라", addr:"노량진"};

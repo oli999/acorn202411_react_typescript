@@ -37,6 +37,7 @@ function App4() {
     // p 요소의 참조값을 useRef() 를 이용해서 관리 하고 싶으면 generic 를 HTMLParagraphElement 로 선언
     const pRef = useRef<HTMLParagraphElement>(null);
 
+    
 
     return (
         <div>

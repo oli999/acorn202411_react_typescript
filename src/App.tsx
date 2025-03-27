@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { MemberDto } from "./types/type";
 
 
 function App() {
